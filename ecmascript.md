@@ -1,6 +1,6 @@
 Consider the following code:
 
-```
+```javascript
 for(let i=0;i<100;i++)
   setTimeout(console.log,1000,'.');
 ```
