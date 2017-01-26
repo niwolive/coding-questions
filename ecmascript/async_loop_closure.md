@@ -57,7 +57,8 @@ Note: I am not using an arrow function for the return value of `logx`, as `logx`
 
   *Resources*
   - [MDN Guide on Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-  - [https://davidwalsh.name/for-and-against-let](https://davidwalsh.name/for-and-against-let)
+  - [For And Against Let](https://davidwalsh.name/for-and-against-let)
+  - [Explaining javascript closure & scope chaining with examples](https://community.risingstack.com/explaining-javascript-closure-scope-chain-examples/)
 <!-- FIXME read David Walsh's article, it seems to dig quite deep -->
 <!-- FIXME find a few more good references for that -->
 </details>
