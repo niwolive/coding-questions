@@ -11,7 +11,7 @@ let dog;
 - A. `["Jim", "Fred"]`
 - B. `["Jim", "Will"]`
 - C. `[undefined, "Will"]`
-- D. `[Fred, "Will"]`
+- D. `["Fred", "Will"]`
 
 <details>
   <summary>Answer</summary>
